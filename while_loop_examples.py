@@ -1,4 +1,4 @@
-# basic while and for loops for Python Study Group meeting Oct 2021
+# basic while loops for Python Study Group meeting Oct 2021
 
 # while loop example 1
 number = 0
